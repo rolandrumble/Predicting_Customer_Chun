@@ -13,9 +13,9 @@ The data consisted of 10,000 rows consisting of 14 features.
 
 # Project Description
 The following steps were performed in this project:
-Load and clean data
-Explore data
-Feature Engineering
-Model Building and Evaluation
-Hyperparameter Tuning
+- Load and clean data
+- Explore data
+- Feature Engineering
+- Model Building and Evaluation
+- Hyperparameter Tuning
 
